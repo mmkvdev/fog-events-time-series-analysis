@@ -1,5 +1,5 @@
 ### Q.2 
-** Data Analysis**: 
+**Data Analysis**: 
 
 - Fog is a seasonal phenomenon in North India. It disrupts normal life during winter months. Fog is estimated based on visibility measurements. Given a half-hourly time-series of visibility data, write a program to do the following -
 
